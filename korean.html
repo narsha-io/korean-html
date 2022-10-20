@@ -1,0 +1,120 @@
+<html>
+
+<head>
+    <title>Korean</title>
+    <style>
+        .container {
+            margin-top: 250px;
+            text-align: center;
+            font-size: 30px;
+        }
+
+    
+
+
+
+        .tooltip-text {
+  visibility: visible;
+  position: absolute;
+  z-index: 2;
+  width: 100px;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  border-radius: 10px;
+  padding: 10px 15px 10px 15px;
+}
+
+.tooltip-text::before {
+  content: "";
+  position: absolute;
+  transform: rotate(45deg);
+  background-color: #192733;
+  padding: 5px;
+  z-index: 1;
+}
+
+.hover-text:hover .tooltip-text {
+  visibility: visible;
+}
+
+#top {
+  top: -40px;
+  left: -50%;
+}
+
+#top::before {
+  top: 80%;
+  left: 45%;
+}
+
+#bottom {
+  top: 25px;
+  /*left: -50%;*/
+  left: 0%;
+}
+
+#bottom::before {
+  top: -5%;
+  left: 45%;
+}
+
+#left {
+  top: -8px;
+  right: 120%;
+}
+
+#left::before {
+  top: 35%;
+  left: 94%;
+}
+
+#right {
+  top: -8px;
+  left: 120%;
+}
+
+#right::before {
+  top: 35%;
+  left: -2%;
+}
+
+.hover-text {
+  position: relative;
+  display: inline-block;
+  margin: 40px;
+  text-align: center;
+}
+    </style>
+</head>
+
+<body>
+
+    <div class="hover-text">hover me
+        <span class="tooltip-text" id="top">I'm a tooltip!</span>
+      </div>
+      
+    <!--<div class="container">-->
+        <div class="hover-text">수영을 잘 하지 못해요
+            <span class="tooltip-text" id="bottom">tototiti tata
+                <!--
+                <span>수영</span><span style="color: orange">을</span>
+                <span>잘</span>
+                <span>하</span><span style="color: blue">지</span>
+                <span style="color: blue">못해</span><span style="color: green">요</span>-->
+            </span>
+        </div>
+    <!--</div>-->
+
+
+   
+    
+
+<!--
+    <div class="tooltip">Hover over me
+        <span class="tooltiptext">Tooltip text</span>
+    </div>
+-->
+</body>
+
+</html>
