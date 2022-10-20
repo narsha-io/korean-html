@@ -1,0 +1,17 @@
+.container {
+  margin-top: 250px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.particule-sujet {
+  color: orange;
+}
+
+.forme {
+  color: blue;
+}
+
+.conjugaison {
+  color: green;
+}
