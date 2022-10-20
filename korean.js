@@ -28,8 +28,10 @@ const mots = [{
 window.onload = (event) => {
     elt = document.getElementById('text');
     elt2 = document.getElementById('explication');
+    traduction = document.getElementById('traduction');
 
     let text = "";
+    let trad = "";
     mots.forEach(e => {
         
         const para = document.createElement("span");
@@ -45,11 +47,15 @@ window.onload = (event) => {
 
         para.appendChild(node);
         text += e.affichable;
+        if(e.traduction) {
+            trad += e.traduction + " ";
+        }
 
         //편안하다: to be confortable
     });
 
     elt.innerHTML = text;
+    traduction.innerHTML = trad;
 
 };
 
