@@ -1,0 +1,11 @@
+<p>{{ chapiter.name }}</p>
+
+<section *ngFor="let section of chapiter.sections" class="exercice">
+    <h3>{{section.id}} {{section.title}}</h3>
+    <p *ngIf="section.exemple"><span>Exemple :</span> {{ section.exemple }}</p>
+
+    <article *ngFor="let phrase of section.phrases">
+        <p>{{ phrase.id }}. {{ phrase.text }}</p>
+        <p *ngFor="let reponse of phrase.reponses">{{ reponse }}</p>
+    </article>
+</section>

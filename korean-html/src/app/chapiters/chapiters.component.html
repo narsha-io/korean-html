@@ -1,0 +1,6 @@
+<div class="card-container">
+    <a *ngFor="let chapiter of chapiters" class="card" rel="noopener" [routerLink]="[chapiter.id]">
+        Chapiter {{ chapiter.id }} <br />
+        {{ chapiter.name }}
+    </a>
+</div>

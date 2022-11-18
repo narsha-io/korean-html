@@ -1,0 +1,27 @@
+section {
+    
+    &.exercice {
+      
+        article {
+            p {
+                &:nth-child(n+2) {
+                    padding-left: 30px;
+                    font-weight: bold;
+                    color: green;
+
+                    &::before {
+                        content: '\002192';
+                    }
+                }
+            }
+        }
+    }
+
+    &>p {
+        color: blue;
+
+        &>span {
+            text-decoration: underline;
+        }
+    }
+}
