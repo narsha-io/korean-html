@@ -1,0 +1,15 @@
+
+Number : {{ valueText }}
+<br />
+Text : {{ text }}
+<br />
+<select (change)="changeRange($event)">
+      <option *ngFor="let range of ranges"
+              [value]="range">
+        {{range}}
+      </option>
+</select>
+<br />
+<input (change)="setValue($event)" />
+<br />
+<button (click)="next()">Refresh</button>
