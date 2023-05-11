@@ -10,12 +10,12 @@
 ## Chapitre 3
 
 ## [Chapitre 4](chapitres/4/main.md)
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+> **Note:** Négation et question
 
 ## Chapitre 5
 
 ## [Chapitre 6](chapitres/6/main.md)
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+> **Note:** Particules de lieux
 
 
 # Traductions
