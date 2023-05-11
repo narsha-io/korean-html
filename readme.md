@@ -25,3 +25,7 @@
 [2023-05-11](traductions/francais-vers-coreen/2023-05-11.md)
 
 ## Coréen vers Français
+
+# Vocabulaire
+[Lieu](vocabulaire/lieu.md)
+[Temps](vocabulaire/temps.md)
