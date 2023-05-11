@@ -28,4 +28,5 @@
 
 # Vocabulaire
 [Lieu](vocabulaire/lieu.md)
+
 [Temps](vocabulaire/temps.md)
