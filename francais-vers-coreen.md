@@ -28,20 +28,19 @@
 > 알랙스가 건강한 사람이에요
    
 ***J'ai acheté un livre cher***
->
+> 제가 비싼 책을 샀어요
    
 ***J'ai offert un joli sac à ma fille***
->
+> 제 딸에게 예쁜 가방을 선물했어요
    
 ***J'ai fait la sieste pendant 2 heures***
->
+> 두시간 동안 나잠을 잤어요
    
 ***Aujourd'hui est la journée des enfants alors je peux me lever tard***
->
-   (늦게; tard)
+> 오늘은 어린이 날에요 그레서 늦게 일어날 수 있어요
    
 ***En général, je me couche tard et je me lève tôt***
-> 
+> 보통 늦게 자고 일찍 일어나요
 
 ***Le travail est dur alors je suis un peu fatigué***
-> 
+> 일이 어려워요 그레서 제가 조금 피곤해요
