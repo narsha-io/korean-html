@@ -50,15 +50,15 @@ TODO METTRE EXEMPLE
 
 ### 10.6 Transformez les phrases suivantes en utilisant le superlatif
 TODO METTRE EXEMPLE
-> 2사쯤에 날씨가 가장 더워요
+> 2시쯤에 날씨가 가장 더워요
 > 
-> 서울은 한국에서 인구가 많은 가장 도시예요
+> 서울은 한국에서 인구가 가장 많은 도시예요
 > 
-> 다비드 씨는 키가 작은 가장 남자예요
+> 다비드 씨는 키가 가장 작은 남자예요
 > 
-> 기차역 앞에 있는 서점이 가장 가까워요
+> 기차역 앞에 있는 서점이 가장 가까워요 (la librairie qui est devant la gare est la plus proche)
 > 
-> 엄마가 해 주시는 음식은 가장 맛있어요
+> 엄마가 해 주시는 음식은 가장 맛있어요 
 
 
 ### 10.5 Audio
