@@ -17,6 +17,9 @@
 ## [Chapitre 6](chapitres/6/main.md)
 > **Note:** Particules de lieux
 
+## [Chapitre 10](chapitres/10/main.md)
+
+## [Chapitre 11](chapitres/11/main.md)
 
 # Traductions
 
