@@ -16,3 +16,12 @@
 | RV + 러/으러 오다 | Venir faire quelque chose | 말하러 와요 | Je viens parler |
 | RV + ㄹ/을 수 있다 | Etre capable de faire | 수영을 할 수 있어요 | Je sais nager |
 | RV + 기 시작하다 | Commencer quelque chose | 한국어를 배우기 시작했어요 | J'ai commencé à apprendre le coréen |
+| RV + 어야/아야 되다/하다 | Devoir faire quelque chose | 가야 되요 | Je dois y aller |
+| RV + ㄴ/은 적이 있다/없다 | Avoir déjà fait / Avoir de l'expérience | 여행한 적이 있어요 | J'ai déjà voyagé ㅣ
+| RV + 어서/아서 | à cause de V ... | 못 먹어서 배 고파 | Parce que je n'ai pas pu manger j'ai faim |
+| RV + 고 있더 | être en train de V | 먹고 있어요 | Je suis en train de manger |
+| RV + ㄴ/은지 (durée) 됬어다 | J'ai V pendant (durée) | 공부한지 2년에 됬어요 | J'ai étudié pendant 2 ans |
+| RV + ㄹ/을 때 | Lorsque V ... | 일하고 싶을 때 할 수 있어요 | Je peux le faire lorsque je travaille |
+| RV + 네요 | V en exclamation / suprise | 맞이네 ! | C'est bon ! |
+| RV + (으)십시오 | Impératif formel | 오십시요 | Venez |
+| RV + (으)니까 | Cause suivi d'un impératif / Cause avec temps futur | 어제 너무 바빴으니까 못 갔어요 | Hier j'étais très occupé c'est pourquoi je n'y suis pas allé |
