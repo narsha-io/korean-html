@@ -26,4 +26,6 @@
 | RV + ㄹ/을 때 | Lorsque V ... | 일하고 싶을 때 할 수 있어요 | Je peux le faire lorsque je travaille |
 | RV + 네요 | V en exclamation / suprise | 맛있네 ! | C'est bon ! |
 | RV + (으)십시오 | Impératif formel | 오십시요 | Venez |
-|
+| RV + 기에 + adjectif | Pour, à (but) | 이 나라는 여행을 좋아요 | Ce pays est bien pour voyager |
+| RV + (으)ㄴ 지 ... 되었다 | Cela fait ... que | | |
+
